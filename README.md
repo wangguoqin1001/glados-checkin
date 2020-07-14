@@ -1,5 +1,5 @@
 # glados-checkin
-![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
+![glados-checkin](https://github.com/wangguoqin1001/glados-checkin/workflows/glados-checkin/badge.svg)
 
 #### 注册地址：
 
